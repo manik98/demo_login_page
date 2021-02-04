@@ -1,0 +1,39 @@
+#login{
+    border:1px solid  rgb(12, 109, 101);
+    width: 40%;
+    padding: 0 0 3% 0;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+    color:  rgb(12, 109, 101);
+    font-size: 20px;
+}
+#button{
+    width: 100px;
+    background-color: rgb(12, 109, 101);
+    color:rgb(255, 255, 255);
+    height: 30px;
+    padding: 5px;
+    font-size: 22px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+}
+#input{
+    font-size:16px;
+    color:  rgb(12, 109, 101);
+
+}
+#table{
+    padding: 3%;
+    margin-left:auto;
+    margin-right: auto;
+    margin-top: 0;
+}
+#header{
+    background-color: rgb(12, 109, 101);
+    color:rgb(255, 255, 255);
+    vertical-align: top;
+    margin-top: 0;
+    padding: 10px;
+}
