@@ -11,7 +11,7 @@ export class TextField extends React.Component{
                     :
                 </td>
                 <td>
-                    <input type={this.props.type} size={this.props.size} id="input"></input>
+                    <input type={this.props.type} size={this.props.size} class="input" id={this.props.name} ></input>
                 </td>
             </tr>
         );
